@@ -111,8 +111,8 @@ const config = {
       "0xc851a293ed8b8888a2e4140744973dd23bbcbaf2",
     ],
   },
-  tron: {
-    owners: [
+  tron: {TEa3Sq4GKRGkhuH2e7c9676mE8WtsiHRCf
+    owners: 
       "TB1WQmj63bHV9Qmuhp39WABzutphMAetSc",
       "TBpr1tQ5kvoKMv85XsCESVavYo4oZZdWpY",
       "TKFvdC4UC1vtCoHZgn8eviK34kormXaqJ7",
